@@ -3,6 +3,7 @@
 ## About Me 
 - Im Japanese
 - 15Years Old
+- Student
   
 ### I’m currently learning
 - C++
