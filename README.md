@@ -1,4 +1,4 @@
-### Hi there Im Hxxven👋
+### Hi there 👋 Im Hxxven
 
 ## About Me 
 - Im Japanese
