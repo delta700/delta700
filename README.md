@@ -10,6 +10,5 @@
 - Windows Kernel
 - Reverse Engineering
 - Unreal Engine
-- WiiU Cheat
 
 
