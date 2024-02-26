@@ -5,7 +5,7 @@
 - 15Years Old
 - Student
   
-### I’m currently learning
+### Currently Learning
 - C++
 - Windows Kernel
 - Reverse Engineering
