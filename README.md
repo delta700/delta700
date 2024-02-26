@@ -2,7 +2,7 @@
 
 ## About Me 
 - Im Japanese
-- 15Years Old
+- 15 Years Old
 - Student
   
 ### Currently Learning
