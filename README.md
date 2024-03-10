@@ -1,17 +1,17 @@
-## Hello there 👋
+# Hello there 👋
 
-### About Me 
+## About Me 
 - Im Japanese
-- 14 Years Old
+- 15 Years Old
 - Student
   
-### Currently Learning
+## Currently Learning
 - C++
 - Windows Kernel
 - Reverse Engineering
 - Unreal Engine
 
-### Contact
+## Contact
 - Email: hxxven10@gmail.com
 - Discord: @hxxven10._.
 - YouTube: https://www.youtube.com/@hxxven10
