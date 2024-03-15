@@ -13,8 +13,8 @@
 
 ### Contact
 - Email: hxxven10@gmail.com
-- Discord: @hxxven10._.
 - YouTube: https://www.youtube.com/@hxxven10
+- Discord: @hxxven10._.
 - My Community Server https://discord.gg/rym9RgKd9J
 
 
