@@ -11,9 +11,4 @@
 - Reverse Engineering
 - Unreal Engine
 
-### Contact
-- Email: hxxven10@gmail.com
-- YouTube: https://www.youtube.com/@hxxven10
-- My Community Server https://discord.gg/rym9RgKd9J
-
 
