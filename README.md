@@ -14,7 +14,6 @@
 ### Contact
 - Email: hxxven10@gmail.com
 - YouTube: https://www.youtube.com/@hxxven10
-- Discord: @hxxven10._.
 - My Community Server https://discord.gg/rym9RgKd9J
 
 
